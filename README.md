@@ -7,7 +7,7 @@
 
 Expo SDK 25
 
-close this repo 
+clone this repo 
 and run
 
     npm install or yarn add
